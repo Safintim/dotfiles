@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Remedy - Dark (Straight)",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.fontFamily": "Fira Code",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "editor.fontLigatures": true,
+    "cSpell.language": "ru,en,en-GB,en-US,ru-RU",
+    "cSpell.userWords": [
+        "Rafaello",
+        "nums",
+        "pydantic",
+        "uvicorn"
+    ],
+    "python.languageServer": "Pylance",
+    "python.showStartPage": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "black",
+    "window.zoomLevel": 1,
+    "workbench.editor.enablePreview": false,
+}

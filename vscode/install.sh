@@ -1,0 +1,14 @@
+code --install-extension ms-python.python
+code --install-extension njqdev.vscode-python-typehint
+code --install-extension littlefoxteam.vscode-python-test-adapter
+code --install-extension thebarkman.vscode-djaneiro
+code --install-extension EditorConfig.EditorConfig
+code --install-extension mikestead.dotenv
+code --install-extension karyfoundation.racket
+code --install-extension betterthantomorrow.calva
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension streetsidesoftware.code-spell-checker-russian
+code --install-extension emmanuelbeziat.vscode-great-icons
+code --install-extension robertrossmann.remedy
+code --install-extension github.github-vscode-theme
+code --install-extension garytyler.darcula-pycharm
