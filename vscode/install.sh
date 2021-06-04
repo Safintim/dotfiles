@@ -12,3 +12,4 @@ code --install-extension emmanuelbeziat.vscode-great-icons
 code --install-extension robertrossmann.remedy
 code --install-extension github.github-vscode-theme
 code --install-extension garytyler.darcula-pycharm
+code --install-extension be5invis.toml

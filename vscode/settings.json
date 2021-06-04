@@ -25,4 +25,5 @@
     "python.formatting.provider": "black",
     "window.zoomLevel": 1,
     "workbench.editor.enablePreview": false,
+    "workbench.tree.indent": 20
 }
