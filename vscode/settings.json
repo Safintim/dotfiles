@@ -1,19 +1,13 @@
 {
     "files.autoSave": "afterDelay",
-    "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.colorTheme": "Visual Studio Dark",
     "editor.fontLigatures": true,
-    "cSpell.language": "ru,en,en-GB,en-US,ru-RU",
-    "cSpell.userWords": [
-        "Rafaello",
-        "nums",
-        "pydantic",
-        "uvicorn"
-    ],
     "python.testing.pytestArgs": [
         "server"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
+    "python.languageServer": "Pylance",
     "[python]": {
         "editor.defaultFormatter": "ms-python.python",
         "editor.formatOnSave": true
@@ -24,10 +18,10 @@
     },
     "editor.formatOnSave": false,
     "workbench.editor.enablePreview": false,
-    "workbench.tre.indent": 20,
+    "workbench.tree.indent": 20,
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
     },
     "editor.multiCursorModifier": "ctrlCmd",
     "prettier.prettierPath": "~/.nvm/versions/node/v16.11.0/lib/node_modules/prettier/",
@@ -35,16 +29,13 @@
     "eslint.run": "onSave",
     "editor.renderWhitespace": "boundary",
     "eslint.lintTask.enable": true,
-    "window.zoomLevel": 1,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "gitlens": "",
+
     "gitlens.changes.toggleMode": "window",
     "remote.containers.defaultExtensions": [
         "ms-python.python"
     ],
-    "workbench.colorTheme": "Visual Studio Dark",
-    "python.languageServer": "Jedi",
-    "python.linting.pylintEnabled": true,
+    "window.zoomLevel": 1
 }
